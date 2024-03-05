@@ -3,6 +3,11 @@
 
 This is a simple Todo app built with Flutter, Provider and Hive, allowing users to create, edit, delete, and mark todos as completed.
 
+## Screenshots
+
+![Screenshot 1](demo_video/Screenshot_1709664489.png)
+![Screenshot 2](demo_video/Screenshot_1709664496.png)
+
 ## Getting Started
 
 To run the app locally, follow these steps:
