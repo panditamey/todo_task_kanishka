@@ -5,8 +5,10 @@ This is a simple Todo app built with Flutter, Provider and Hive, allowing users 
 
 ## Screenshots
 
-![Screenshot 1](demo_video/Screenshot_1709664489.png)
-![Screenshot 2](demo_video/Screenshot_1709664496.png)
+<div align="center">
+  <img src="demo_video/Screenshot_1709664489.png" alt="Screenshot 1" width="300">
+  <img src="demo_video/Screenshot_1709664496.png" alt="Screenshot 2" width="300">
+</div>
 
 ## Getting Started
 
