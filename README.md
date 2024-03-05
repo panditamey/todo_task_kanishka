@@ -59,4 +59,3 @@ The app is organized into the following components:
 - **Provider**: Implements the business logic and state management using a `ChangeNotifier` (`TodoProvider`).
 - **Screens**: Contains the UI screens for adding (`AddTodoScreen`) and editing (`EditTodoScreen`) todos, as well as the main screen (`TodoApp`) displaying the todo list (`TodoList`).
 
-Each component is thoroughly commented to explain its implementation and functionality.
